@@ -100,6 +100,6 @@ Aprenda as práticas recomendadas para administração de espaço de trabalho, s
 
 <br>
 
-**Fonte: ** [Data engineering with Azure Databricks](https://docs.microsoft.com/en-us/learn/paths/data-engineer-azure-databricks/)
+<b>Fonte: </b> [Data engineering with Azure Databricks](https://docs.microsoft.com/en-us/learn/paths/data-engineer-azure-databricks/)
 
 <br>
