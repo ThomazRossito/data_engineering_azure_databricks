@@ -1,4 +1,4 @@
-# Course Microsoft - Data engineering with Azure Databricks
+# Microsoft - Engenheiro de Dados com Azure Databricks
 
 Aprenda como aproveitar o poder do Apache Spark e poderosos clusters em execução na plataforma Azure Databricks para executar grandes cargas de trabalho para engenharia de dados na nuvem.
 
@@ -100,6 +100,6 @@ Aprenda as práticas recomendadas para administração de espaço de trabalho, s
 
 <br>
 
-<b>Fonte: </b> [Data engineering with Azure Databricks](https://docs.microsoft.com/en-us/learn/paths/data-engineer-azure-databricks/)
+<b>Fonte: </b> [Engenheiro de Dados com Azure Databricks](https://docs.microsoft.com/en-us/learn/paths/data-engineer-azure-databricks/)
 
 <br>
